@@ -1,0 +1,17 @@
+.btn {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: none;
+    background: slateblue;
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1;
+    text-align: center;
+    padding: 15px;
+}
+
+.btn:hover {
+    transform: translateX(700px);
+}

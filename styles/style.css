@@ -35,7 +35,7 @@ header {
 
 header h1 {
     padding-right: 40px;
-    border-right: 1px solid var(--c4);
+    border-right: 1px solid var(--c2);
 }
 
 header ul {
@@ -123,6 +123,7 @@ footer div {
 
 .Social_Media_Icons {
     padding: 0px 3px 0px 3px;
+    font-size: 1.5rem;
 }
 
 .gitHub_Projects {
@@ -133,7 +134,9 @@ a:-webkit-any-link {
     text-decoration: none;
 }
 
-
+.youtube {
+    aspect-ratio: 16 / 9;
+}
 
 
 
