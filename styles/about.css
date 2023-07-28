@@ -2,7 +2,16 @@ main {
     background-color: whitesmoke;
 }
 
+#onme {
+    cursor:none
 
+}
+
+#divtoshow {
+    position:absolute;
+    display:none;
+    
+}
 @media screen and (max-width: 750px) {
     .info {
         padding-top: 100px;

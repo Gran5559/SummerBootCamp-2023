@@ -21,6 +21,10 @@ p {
     font-weight: 300;
 }
 
+.carousel {
+    padding-top: 80px;
+}
+
 header {
     position: fixed;
     box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16);
@@ -31,6 +35,7 @@ header {
     font-weight: 300;
     padding: 15px;
     justify-content: center;
+    z-index: 1;
 }
 
 header h1 {
